@@ -79,135 +79,123 @@
   },
     {
     "slug": "amantus-ai/vibetunnel",
-    "name": "VibeTunnel",
+    "name": "vibetunnel",
     "description": "Turn any browser into your terminal — command agents from the road via vt.sh.",
-    "github": "amantus-ai/vibetunnel",
-    "type": "server"
+    "github": "amantus-ai/vibetunnel"
   },
   {
     "slug": "steipete/CodexBar",
     "name": "CodexBar",
     "description": "macOS menu bar app to keep agent token limits and usage in view.",
-    "github": "steipete/CodexBar",
-    "type": "menubar"
+    "github": "steipete/CodexBar"
   },
   {
     "slug": "steipete/Peekaboo",
-    "name": "Peekaboo",
+    "name": "peekaboo",
     "description": "Lightning-fast macOS screenshots and GUI automation — native Swift CLI with built-in MCP server.",
     "github": "steipete/Peekaboo",
-    "type": "cli+mcp"
+    "install": { "brew": "@steipete/peekaboo" }
   },
   {
     "slug": "steipete/summarize",
     "name": "summarize",
     "description": "Point at any URL or file and get the gist — summarization CLI.",
-    "github": "steipete/summarize",
-    "type": "cli"
+    "github": "steipete/summarize"
   },
   {
     "slug": "steipete/RepoBar",
     "name": "RepoBar",
     "description": "macOS menu bar app showing CI status, PRs, and releases at a glance.",
-    "github": "steipete/RepoBar",
-    "type": "menubar"
+    "github": "steipete/RepoBar"
   },
   {
     "slug": "steipete/gogcli",
     "name": "gogcli",
     "description": "Google in your terminal — Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People.",
-    "github": "steipete/gogcli",
-    "type": "cli"
+    "github": "steipete/gogcli"
   },
   {
     "slug": "steipete/poltergeist",
     "name": "Poltergeist",
     "description": "Universal hot reload and file watcher — keeps builds fresh automatically.",
-    "github": "steipete/poltergeist",
-    "type": "daemon"
+    "github": "steipete/poltergeist"
   },
   {
     "slug": "steipete/wacli",
     "name": "wacli",
     "description": "WhatsApp CLI — sync, search, and send messages from your terminal.",
-    "github": "steipete/wacli",
-    "type": "cli"
+    "github": "steipete/wacli"
   },
   {
     "slug": "steipete/discrawl",
     "name": "discrawl",
     "description": "Mirror Discord into SQLite and search server history locally.",
-    "github": "steipete/discrawl",
-    "type": "cli"
+    "github": "steipete/discrawl"
   },
   {
     "slug": "steipete/sag",
     "name": "sag",
     "description": "ElevenLabs TTS with mac-style say UX — streams to speakers by default.",
-    "github": "steipete/sag",
-    "type": "cli"
+    "github": "steipete/sag"
   },
   {
     "slug": "steipete/brabble",
     "name": "Brabble",
     "description": "Wake-word voice daemon for macOS — transcribes locally and fires configurable hooks.",
-    "github": "steipete/brabble",
-    "type": "daemon"
+    "github": "steipete/brabble"
   },
   {
     "slug": "steipete/sonoscli",
     "name": "sonoscli",
     "description": "Control Sonos speakers from the terminal — discover, group, queue, and play Spotify.",
-    "github": "steipete/sonoscli",
-    "type": "cli"
+    "github": "steipete/sonoscli"
   },
   {
     "slug": "steipete/ElevenLabsKit",
     "name": "ElevenLabsKit",
     "description": "ElevenLabs voices on tap — SwiftPM-friendly, streaming-native Swift library.",
-    "github": "steipete/ElevenLabsKit",
-    "type": "library"
+    "github": "steipete/ElevenLabsKit"
   },
   {
     "slug": "steipete/goplaces",
     "name": "goplaces",
     "description": "Google Places API (New) client and CLI.",
-    "github": "steipete/goplaces",
-    "type": "cli"
+    "github": "steipete/goplaces"
   },
   {
     "slug": "steipete/gifgrep",
     "name": "gifgrep",
     "description": "GIF search for terminals — CLI output and TUI with inline previews.",
-    "github": "steipete/gifgrep",
-    "type": "cli+tui"
+    "github": "steipete/gifgrep"
   },
   {
     "slug": "steipete/camsnap",
     "name": "camsnap",
     "description": "RTSP snapshots, clips, and motion detection CLI — Tapo-friendly.",
-    "github": "steipete/camsnap",
-    "type": "cli"
+    "github": "steipete/camsnap"
   },
   {
     "slug": "steipete/spogo",
     "name": "spogo",
     "description": "Spotify in the terminal — playback control using web cookies.",
-    "github": "steipete/spogo",
-    "type": "cli"
+    "github": "steipete/spogo"
   },
   {
     "slug": "steipete/ordercli",
     "name": "ordercli",
     "description": "Track your takeout timeline from the terminal.",
-    "github": "steipete/ordercli",
-    "type": "cli"
+    "github": "steipete/ordercli"
   },
   {
     "slug": "steipete/blucli",
     "name": "blucli",
     "description": "Play, group, and automate BluOS audio systems from the terminal.",
-    "github": "steipete/blucli",
-    "type": "cli"
+    "github": "steipete/blucli"
+  },
+  {
+    "slug": "polymarket/polymarket-cli",
+    "name": "polymarket-cli",
+    "description": "Rust CLI for Polymarket. Browse markets, place orders, manage positions, and interact with onchain contracts — from a terminal or as a JSON API for scripts and agents.",
+    "github": "polymarket/polymarket-cli"
   }
 ]
