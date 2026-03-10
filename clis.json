@@ -72,12 +72,6 @@
     "github": "AgentlyHQ/use-agently"
   },
   {
-    "slug": "steipete/wacli",
-    "name": "wacli",
-    "description": "A command-line interface for WhatsApp. Send messages and interact with WhatsApp from your terminal.",
-    "github": "steipete/wacli"
-  },
-  {
     "slug": "vysheng/tg",
     "name": "tg",
     "description": "Command-line Telegram client. Send messages, manage chats, and interact with the Telegram API directly from your terminal.",
