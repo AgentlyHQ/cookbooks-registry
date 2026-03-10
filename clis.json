@@ -77,7 +77,7 @@
     "description": "Command-line Telegram client. Send messages, manage chats, and interact with the Telegram API directly from your terminal.",
     "github": "vysheng/tg"
   },
-    {
+  {
     "slug": "amantus-ai/vibetunnel",
     "name": "vibetunnel",
     "description": "Turn any browser into your terminal — command agents from the road via vt.sh.",
@@ -197,5 +197,10 @@
     "name": "polymarket-cli",
     "description": "Rust CLI for Polymarket. Browse markets, place orders, manage positions, and interact with onchain contracts — from a terminal or as a JSON API for scripts and agents.",
     "github": "polymarket/polymarket-cli"
+  },
+  {
+    "slug": "nunchi-trade/agent-cli",
+    "name": "agent-cli",
+    "github": "nunchi-trade/agent-cli"
   }
 ]
