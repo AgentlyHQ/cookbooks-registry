@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "googleworkspace/cli",
+    "name": "gws",
+    "description": "Unified CLI for Google Workspace APIs — Drive, Gmail, Calendar, Sheets, Docs, and Chat. Dynamically built from the Google Discovery Service.",
+    "github": "googleworkspace/cli",
+    "install": { "npm": "@googleworkspace/cli" }
+  },
+  {
+    "slug": "stripe/stripe-cli",
+    "name": "stripe-cli",
+    "description": "The official CLI for the Stripe API. Test webhooks, trigger events, and manage your Stripe integration from the terminal.",
+    "github": "stripe/stripe-cli"
+  },
+  {
+    "slug": "cli/cli",
+    "name": "gh",
+    "description": "GitHub's official CLI. Bring pull requests, issues, GitHub Actions, and more to your terminal.",
+    "github": "cli/cli"
+  },
+  {
+    "slug": "vercel/vercel",
+    "name": "vercel",
+    "description": "Deploy and manage your Vercel projects from the command line. Instant deploys, previews, and environment management.",
+    "github": "vercel/vercel",
+    "install": { "npm": "vercel" }
+  },
+  {
+    "slug": "aws/aws-cli",
+    "name": "aws-cli",
+    "description": "The official AWS command line interface. Manage your AWS services directly from the terminal.",
+    "github": "aws/aws-cli",
+    "install": { "pip": "awscli" }
+  },
+  {
+    "slug": "docker/cli",
+    "name": "docker",
+    "description": "The CLI for Docker. Build, run, and manage containers and images from the terminal.",
+    "github": "docker/cli"
+  },
+  {
+    "slug": "schpet/linear-cli",
+    "name": "linear",
+    "description": "A CLI for Linear. Create issues, manage projects, and interact with your Linear workspace from the terminal.",
+    "github": "schpet/linear-cli",
+    "install": { "npm": "@schpet/linear-cli" }
+  },
+  {
+    "slug": "google-gemini/gemini-cli",
+    "name": "gemini-cli",
+    "description": "Google's open-source AI agent that brings Gemini directly into your terminal. Supports 1M token context and is extensible via plugins.",
+    "github": "google-gemini/gemini-cli",
+    "install": { "npm": "@google/gemini-cli" }
+  },
+  {
+    "slug": "anomalyco/opencode",
+    "name": "opencode",
+    "description": "An open-source AI coding agent built for the terminal. Supports multiple LLM providers and runs autonomously on real codebases.",
+    "github": "anomalyco/opencode"
+  },
+  {
+    "slug": "Aider-AI/aider",
+    "name": "aider",
+    "description": "AI pair programming in your terminal. Aider lets you edit code in your local git repo using GPT-4 and other LLMs.",
+    "github": "Aider-AI/aider",
+    "install": { "pip": "aider-chat" }
+  },
+  {
+    "slug": "AgentlyHQ/use-agently",
+    "name": "use-agently",
+    "description": "The routing and settlement layer for your agent economy. Discover, coordinate, and transact with autonomous AI agents.",
+    "github": "AgentlyHQ/use-agently"
+  }
+]

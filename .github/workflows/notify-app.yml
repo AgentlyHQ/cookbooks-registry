@@ -1,0 +1,19 @@
+name: Trigger cookbooks-app deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - clis.json
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to cookbooks-app
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.APP_REPO_TOKEN }}" \
+            https://api.github.com/repos/AgentlyHQ/cookbooks-app/dispatches \
+            -d '{"event_type":"registry-updated"}'
