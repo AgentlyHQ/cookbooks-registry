@@ -72,6 +72,12 @@
     "github": "AgentlyHQ/use-agently"
   },
   {
+    "slug": "AgentlyHQ/aixyz",
+    "name": "aixyz",
+    "description": "Payment-native SDK for AI Agents. Build an agent, get paid today.",
+    "github": "AgentlyHQ/aixyz"
+  },
+  {
     "slug": "vysheng/tg",
     "name": "tg",
     "description": "Command-line Telegram client. Send messages, manage chats, and interact with the Telegram API directly from your terminal.",
