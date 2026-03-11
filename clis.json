@@ -202,5 +202,10 @@
     "slug": "nunchi-trade/agent-cli",
     "name": "agent-cli",
     "github": "nunchi-trade/agent-cli"
+  },
+  {
+    "slug": "lydakis/mcpx",
+    "name": "mcpx",
+    "github": "lydakis/mcpx"
   }
 ]
