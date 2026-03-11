@@ -212,5 +212,10 @@
     "slug": "coingecko/coingecko-cli",
     "name": "coingecko-cli",
     "github": "coingecko/coingecko-cli"
+  },
+  {
+    "slug": "andrewyng/context-hub",
+    "name": "context-hub",
+    "github": "andrewyng/context-hub"
   }
 ]
