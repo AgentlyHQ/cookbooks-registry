@@ -223,5 +223,15 @@
     "slug": "andrewyng/context-hub",
     "name": "context-hub",
     "github": "andrewyng/context-hub"
+  },
+  {
+    "slug": "marchev/claudit",
+    "name": "claudit",
+    "github": "marchev/claudit"
+  },
+  {
+    "slug": "jaredpalmer/mogcli",
+    "name": "mogcli",
+    "github": "jaredpalmer/mogcli"
   }
 ]
