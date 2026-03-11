@@ -207,5 +207,10 @@
     "slug": "lydakis/mcpx",
     "name": "mcpx",
     "github": "lydakis/mcpx"
+  },
+  {
+    "slug": "coingecko/coingecko-cli",
+    "name": "coingecko-cli",
+    "github": "coingecko/coingecko-cli"
   }
 ]
