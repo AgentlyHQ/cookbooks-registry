@@ -238,5 +238,17 @@
     "slug": "garrytan/gstack",
     "name": "gstack",
     "github": "garrytan/gstack"
+  },
+  {
+    "slug": "firecrawl/firecrawl",
+    "name": "firecrawl",
+    "description": "CLI for agents to scrape, search, and spin up cloud browsers via a single npx command.",
+    "github": "firecrawl/firecrawl"
+  },
+  {
+    "slug": "run-llama/semtools",
+    "name": "semtools",
+    "description": "CLI to parse and semantically search PDFs with best-in-class accuracy using LlamaParse. Pluggable as a skill into Claude Code and OpenClaw.",
+    "github": "run-llama/semtools"
   }
 ]
