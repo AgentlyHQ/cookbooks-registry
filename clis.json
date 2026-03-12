@@ -233,5 +233,10 @@
     "slug": "jaredpalmer/mogcli",
     "name": "mogcli",
     "github": "jaredpalmer/mogcli"
+  },
+  {
+    "slug": "garrytan/gstack",
+    "name": "gstack",
+    "github": "garrytan/gstack"
   }
 ]
