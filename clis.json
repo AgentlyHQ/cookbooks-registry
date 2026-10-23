@@ -2,9 +2,11 @@
   {
     "slug": "googleworkspace/cli",
     "name": "gws",
-    "description": "Unified CLI for Google Workspace APIs — Drive, Gmail, Calendar, Sheets, Docs, and Chat. Dynamically built from the Google Discovery Service.",
+    "description": "Unified CLI for Google Workspace APIs \u2014 Drive, Gmail, Calendar, Sheets, Docs, and Chat. Dynamically built from the Google Discovery Service.",
     "github": "googleworkspace/cli",
-    "install": { "npm": "@googleworkspace/cli" }
+    "install": {
+      "npm": "@googleworkspace/cli"
+    }
   },
   {
     "slug": "stripe/stripe-cli",
@@ -23,14 +25,18 @@
     "name": "vercel",
     "description": "Deploy and manage your Vercel projects from the command line. Instant deploys, previews, and environment management.",
     "github": "vercel/vercel",
-    "install": { "npm": "vercel" }
+    "install": {
+      "npm": "vercel"
+    }
   },
   {
     "slug": "aws/aws-cli",
     "name": "aws-cli",
     "description": "The official AWS command line interface. Manage your AWS services directly from the terminal.",
     "github": "aws/aws-cli",
-    "install": { "pip": "awscli" }
+    "install": {
+      "pip": "awscli"
+    }
   },
   {
     "slug": "docker/cli",
@@ -43,14 +49,18 @@
     "name": "linear",
     "description": "A CLI for Linear. Create issues, manage projects, and interact with your Linear workspace from the terminal.",
     "github": "schpet/linear-cli",
-    "install": { "npm": "@schpet/linear-cli" }
+    "install": {
+      "npm": "@schpet/linear-cli"
+    }
   },
   {
     "slug": "google-gemini/gemini-cli",
     "name": "gemini-cli",
     "description": "Google's open-source AI agent that brings Gemini directly into your terminal. Supports 1M token context and is extensible via plugins.",
     "github": "google-gemini/gemini-cli",
-    "install": { "npm": "@google/gemini-cli" }
+    "install": {
+      "npm": "@google/gemini-cli"
+    }
   },
   {
     "slug": "anomalyco/opencode",
@@ -63,7 +73,9 @@
     "name": "aider",
     "description": "AI pair programming in your terminal. Aider lets you edit code in your local git repo using GPT-4 and other LLMs.",
     "github": "Aider-AI/aider",
-    "install": { "pip": "aider-chat" }
+    "install": {
+      "pip": "aider-chat"
+    }
   },
   {
     "slug": "AgentlyHQ/use-agently",
@@ -86,7 +98,7 @@
   {
     "slug": "amantus-ai/vibetunnel",
     "name": "vibetunnel",
-    "description": "Turn any browser into your terminal — command agents from the road via vt.sh.",
+    "description": "Turn any browser into your terminal \u2014 command agents from the road via vt.sh.",
     "github": "amantus-ai/vibetunnel"
   },
   {
@@ -98,14 +110,16 @@
   {
     "slug": "steipete/Peekaboo",
     "name": "peekaboo",
-    "description": "Lightning-fast macOS screenshots and GUI automation — native Swift CLI with built-in MCP server.",
+    "description": "Lightning-fast macOS screenshots and GUI automation \u2014 native Swift CLI with built-in MCP server.",
     "github": "steipete/Peekaboo",
-    "install": { "brew": "@steipete/peekaboo" }
+    "install": {
+      "brew": "@steipete/peekaboo"
+    }
   },
   {
     "slug": "steipete/summarize",
     "name": "summarize",
-    "description": "Point at any URL or file and get the gist — summarization CLI.",
+    "description": "Point at any URL or file and get the gist \u2014 summarization CLI.",
     "github": "steipete/summarize"
   },
   {
@@ -117,19 +131,19 @@
   {
     "slug": "steipete/gogcli",
     "name": "gogcli",
-    "description": "Google in your terminal — Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People.",
+    "description": "Google in your terminal \u2014 Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People.",
     "github": "steipete/gogcli"
   },
   {
     "slug": "steipete/poltergeist",
     "name": "Poltergeist",
-    "description": "Universal hot reload and file watcher — keeps builds fresh automatically.",
+    "description": "Universal hot reload and file watcher \u2014 keeps builds fresh automatically.",
     "github": "steipete/poltergeist"
   },
   {
     "slug": "steipete/wacli",
     "name": "wacli",
-    "description": "WhatsApp CLI — sync, search, and send messages from your terminal.",
+    "description": "WhatsApp CLI \u2014 sync, search, and send messages from your terminal.",
     "github": "steipete/wacli"
   },
   {
@@ -141,25 +155,25 @@
   {
     "slug": "steipete/sag",
     "name": "sag",
-    "description": "ElevenLabs TTS with mac-style say UX — streams to speakers by default.",
+    "description": "ElevenLabs TTS with mac-style say UX \u2014 streams to speakers by default.",
     "github": "steipete/sag"
   },
   {
     "slug": "steipete/brabble",
     "name": "Brabble",
-    "description": "Wake-word voice daemon for macOS — transcribes locally and fires configurable hooks.",
+    "description": "Wake-word voice daemon for macOS \u2014 transcribes locally and fires configurable hooks.",
     "github": "steipete/brabble"
   },
   {
     "slug": "steipete/sonoscli",
     "name": "sonoscli",
-    "description": "Control Sonos speakers from the terminal — discover, group, queue, and play Spotify.",
+    "description": "Control Sonos speakers from the terminal \u2014 discover, group, queue, and play Spotify.",
     "github": "steipete/sonoscli"
   },
   {
     "slug": "steipete/ElevenLabsKit",
     "name": "ElevenLabsKit",
-    "description": "ElevenLabs voices on tap — SwiftPM-friendly, streaming-native Swift library.",
+    "description": "ElevenLabs voices on tap \u2014 SwiftPM-friendly, streaming-native Swift library.",
     "github": "steipete/ElevenLabsKit"
   },
   {
@@ -171,19 +185,19 @@
   {
     "slug": "steipete/gifgrep",
     "name": "gifgrep",
-    "description": "GIF search for terminals — CLI output and TUI with inline previews.",
+    "description": "GIF search for terminals \u2014 CLI output and TUI with inline previews.",
     "github": "steipete/gifgrep"
   },
   {
     "slug": "steipete/camsnap",
     "name": "camsnap",
-    "description": "RTSP snapshots, clips, and motion detection CLI — Tapo-friendly.",
+    "description": "RTSP snapshots, clips, and motion detection CLI \u2014 Tapo-friendly.",
     "github": "steipete/camsnap"
   },
   {
     "slug": "steipete/spogo",
     "name": "spogo",
-    "description": "Spotify in the terminal — playback control using web cookies.",
+    "description": "Spotify in the terminal \u2014 playback control using web cookies.",
     "github": "steipete/spogo"
   },
   {
@@ -201,7 +215,7 @@
   {
     "slug": "polymarket/polymarket-cli",
     "name": "polymarket-cli",
-    "description": "Rust CLI for Polymarket. Browse markets, place orders, manage positions, and interact with onchain contracts — from a terminal or as a JSON API for scripts and agents.",
+    "description": "Rust CLI for Polymarket. Browse markets, place orders, manage positions, and interact with onchain contracts \u2014 from a terminal or as a JSON API for scripts and agents.",
     "github": "polymarket/polymarket-cli"
   },
   {
@@ -250,5 +264,11 @@
     "name": "semtools",
     "description": "CLI to parse and semantically search PDFs with best-in-class accuracy using LlamaParse. Pluggable as a skill into Claude Code and OpenClaw.",
     "github": "run-llama/semtools"
+  },
+  {
+    "slug": "flisk-sh/flisk",
+    "name": "flisk",
+    "description": "CLI to generate and run a full tech stack from an empty folder. Useful for agents needing local dev environments.",
+    "github": "flisk-sh/flisk"
   }
 ]
